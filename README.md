@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Pedro Rovira 👋</h1>
   <p><strong>Software Engineer | Backend & Full-Stack Developer | Multi-Agent AI Enthusiast</strong></p>
-  <p>📍 São Paulo, Brasil | 🎓 Graduando em Engenharia de Computação @ FACENS</p>
+  <p>📍 Cerquilho, Brasil | 🎓 Graduando em Engenharia de Computação @ FACENS</p>
 
   <p>
     <a href="https://www.linkedin.com/in/pedrorovira/" target="_blank">
