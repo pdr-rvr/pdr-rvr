@@ -1,7 +1,7 @@
 <div align="center">
-  <h1>Pedro Rovira 👋</h1>
+  <h1>Pedro Rovira </h1>
   <p><strong>Software Engineer | Backend & Full-Stack Developer | Multi-Agent AI Enthusiast</strong></p>
-  <p>📍 Cerquilho, Brasil | 🎓 Graduando em Engenharia de Computação @ FACENS</p>
+  <p>Cerquilho – SP, Brasil | Graduando em Engenharia de Computação @ FACENS</p>
 
   <p>
     <a href="https://www.linkedin.com/in/pedrorovira/" target="_blank">
@@ -15,17 +15,17 @@
 
 ---
 
-### 👨‍💻 Sobre Mim
+### Sobre Mim
 
-- 🎓 Cursando o último ano de **Engenharia de Computação** na **FACENS** (Conclusão em 2026).
-- ⚙️ Focado no desenvolvimento de **microsserviços escaláveis, APIs RESTful de alto throughput e arquiteturas orientadas a eventos**.
-- 🧠 Pesquisa e implementação de **Sistemas Multiagentes de IA** (Framework CoALA / BDI), integração de LLMs e bancos de dados em grafos (**Neo4j**).
-- 🏆 Participante das edições de 2022, 2023 e 2024 da **Maratona de Programação FACENS**.
-- 📄 Coautor de artigo científico publicado no *Journal of Innovation and Science* (JOINS / Facens 2025).
+- Cursando o último ano de **Engenharia de Computação** na **FACENS** (Conclusão em 2026).
+- Focado no desenvolvimento de **microsserviços escaláveis, APIs RESTful de alto throughput e arquiteturas orientadas a eventos**.
+- Pesquisa e implementação de **Sistemas Multiagentes de IA** (Framework CoALA ), integração de LLMs e bancos de dados em grafos (**Neo4j**).
+- Participante das edições de 2022, 2023 e 2024 da **Maratona de Programação FACENS**.
+- Coautor de artigo científico publicado no *Journal of Innovation and Science* (JOINS / Facens 2025).
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### Tecnologias e Ferramentas
 
 <div align="left">
 
@@ -62,18 +62,21 @@
 
 ---
 
-### 🚀 Projetos em Destaque
+### Projetos em Destaque
 
 | Projeto | Descrição | Stack |
 | :--- | :--- | :--- |
 | **[TicketPass API](https://github.com/pdr-rvr/TicketPassAPI)** | Plataforma de venda concorrente de ingressos com Clean Architecture, DDD, Lock Distribuído e Outbox Pattern. | `Java 21` `Spring Boot 3` `Redis` `RabbitMQ` `PostgreSQL` `Docker` |
-| **[Project Skopos (TCC)](https://github.com/tcc-comp-facens/project-skopos)** | Sistema Multiagente de IA (CoALA) comparando topologias de auditoria governamental em tempo real. | `Python` `FastAPI` `Neo4j` `WebSockets` `React` `Docker` |
+| **[Project Skopos (TCC)](https://github.com/tcc-comp-facens/project-skopos)** | Sistema Multiagente de IA (CoALA) avaliando gastos públicos em saúde. | `Python` `FastAPI` `Neo4j` `WebSockets` `React` `Docker` |
 | **[KORP ERP](https://github.com/pdr-rvr/Korp_Teste_PedroRovira)** | Microsserviços corporativos de faturamento e estoque com tolerância a falhas via Polly e frontend reativo. | `C#` `.NET 8` `PostgreSQL` `Polly` `Angular 19` `Docker` |
 | **[GameLog](https://github.com/pdr-rvr/GameLog)** | Plataforma web de catálogo e avaliação de jogos com boas práticas SOLID, deploy em nuvem e gestão ágil. | `C#` `.NET 8` `React` `Azure` `Jira` |
 
 ---
 
+### Estatísticas do GitHub
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pdr-rvr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdr-rvr&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=pdr-rvr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pdr-rvr&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top Languages" />
 </div>
+
